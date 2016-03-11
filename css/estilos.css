@@ -1,0 +1,63 @@
+
+
+
+h1{
+    color: #402C3A;
+    font-family: "Apple Chancery";
+    border: solid;
+    text-align: center;
+    font-weight: 900;
+}
+
+table, th {
+    text-decoration-color: #402C3A;
+    color: black;
+    background: azure;
+    border: groove;
+    text-align: center;
+    font-weight: 500;
+    font-stretch: expanded;
+    font-family: "Apple Chancery";
+
+}
+
+
+titulo{
+    font-size: large;
+    font-weight: 900;
+    color: purple;
+    margin-left: 1cm;
+    text-decoration;
+}
+
+
+.listaDatos li{
+    margin-bottom: 1em;
+}
+
+
+
+
+
+.destacado{
+color: darkblue; font-family: Verdana;
+    border: 1px solid #98be10;
+    background: beige;
+}
+
+
+img{
+    margin-left: 1cm;
+    margin-bottom: 2cm;
+    border: groove;
+}
+
+
+div{
+    border-bottom: groove;
+}
+
+
+h3{
+    font-style: inherit;
+}
